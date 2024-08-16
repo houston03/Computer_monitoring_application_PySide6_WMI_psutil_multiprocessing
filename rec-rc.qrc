@@ -1,0 +1,80 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Без названия141_20240531135540.png</file>
+    <file>Без названия141_20240531140619.png</file>
+    <file>Без названия141_20240531125145.png</file>
+    <file>Без названия141_20240531125249.png</file>
+    <file>Без названия141_20240531125253.png</file>
+    <file>Без названия141_20240531125524.png</file>
+    <file>Без названия141_20240531125801.png</file>
+    <file>s-l1600.jpg</file>
+    <file>Без названия141_20240531125046.png</file>
+    <file>Без названия141_20240531125138.png</file>
+    <file>imagec (1).png</file>
+    <file>imaget (1).png</file>
+    <file>imagge (1).png</file>
+    <file>00cceaae55fd08c700dc96e29599bc74.jpg</file>
+    <file>icons8-pacman-96.png</file>
+    <file>icons8-виртуальная-реальность-96.png</file>
+    <file>icons8-контроллер-96.png</file>
+    <file>icons8-пиксельное-сердце-96.png</file>
+    <file>noroot.png</file>
+    <file>icons8-почта-96.png</file>
+    <file>icons8-питон-96.png</file>
+    <file>icons8-окна-11-96.png</file>
+    <file>icons8-новый-логотип-discord-new-logo-96.png</file>
+    <file>11.0.0.jpg</file>
+    <file>icons8-vk-96 (1).png</file>
+    <file>icons8-youtube-96 (1).png</file>
+    <file>icons8-vk-96.png</file>
+    <file>icons8-vk-circled-96.png</file>
+    <file>icons8-кнопка-воспроизведения-круглая-96.png</file>
+    <file>icons8-youtube-96.png</file>
+    <file>18-180393_electrical-network-electronic-circuit-printed-circuit-.png</file>
+    <file>1677462010_bogatyr-club-p-figuri-bez-fona-fon-vkontakte-1.png</file>
+    <file>image (g1).png</file>
+    <file>1639282741_45-papik-pro-p-tochki-klipart-48.png</file>
+    <file>1685628139_polinka-top-p-neironka-kartinki-pinterest-53.jpg</file>
+    <file>1640663635_6-abrakadabra-fun-p-abstraktsiya-png-6.png</file>
+    <file>98-988994_line-wave-png-image-royalty-free-architecture.png</file>
+    <file>6Yn3K.png</file>
+    <file>5-and-a-Half-Very-Si.png</file>
+    <file>png-clipart-industry-artificial-intelligence-system-music-organization-brain-technology-company-text.png</file>
+    <file>image (103).png</file>
+    <file>image (101).png</file>
+    <file>image (102).png</file>
+    <file>image (100).png</file>
+    <file>icons/image 2).png</file>
+    <file>icons8-материнская-плата-100 (1).png</file>
+    <file>image 2).png</file>
+    <file>image (14).png</file>
+    <file>image 1).png</file>
+    <file>image (12).png</file>
+    <file>image (13).png</file>
+    <file>1614759725_98-p-abstraktsii-na-belom-fone-124.png</file>
+    <file>image (11).png</file>
+    <file>image (10).png</file>
+    <file>icons8-частота.gif</file>
+    <file>image (8).png</file>
+    <file>image (9).png</file>
+    <file>image (7).png</file>
+    <file>image (6).png</file>
+    <file>image (4).png</file>
+    <file>image (5).png</file>
+    <file>image (3).png</file>
+    <file>image (2).png</file>
+    <file>3.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>image.png</file>
+    <file>image1.png</file>
+    <file>icons/pchel.png</file>
+    <file>icons/the.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix">
+    <file>image (16).png</file>
+    <file>image (22).png</file>
+    <file>image (33).png</file>
+  </qresource>
+</RCC>
